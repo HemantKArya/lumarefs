@@ -24,7 +24,7 @@ Lumaref is a powerful, lightweight, and completely offline desktop reference boa
 
 ## 📥 Download & Links
 
-* **Download Lumaref:** [Get the latest release here](https://iamhemant.itch.io/lumaref)
+* **Download Lumaref:** [Get the latest release here](https://github.com/HemantKArya/lumarefs/releases/latest)
 * **Bloomeex:** [Visit bloomeex](https://bloomeex.org) 
 * **Watch the Showreel:** [Lumaref Beta Showreel on YouTube](https://youtu.be/DmkjiF7ZDFc)
 

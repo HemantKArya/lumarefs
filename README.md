@@ -2,13 +2,15 @@
   <img src="./assets/lumarefbanner.png" alt="Repository Banner" width="100%">
 </p>
 
-
 # Lumaref 🌙
 
 **The ultimate offline reference board and workspace for visual artists.**
 
 Lumaref is a powerful, lightweight, and completely offline desktop reference board designed to streamline the creative workflow for artists, illustrators, and designers. Gather references, organize your thoughts on an infinite canvas, and focus purely on your art without the clutter.
 
+> **🚀 Beta Notice:** Lumaref is currently in active development (Beta). You can expect rapid updates, exciting new features, and continuous UI/UX polishing as the app evolves!
+
+---
 
 ## ✨ Key Features
 
@@ -20,7 +22,7 @@ Lumaref is a powerful, lightweight, and completely offline desktop reference boa
 * **Study & Annotation Tools:** Draw directly over references, auto-extract color palettes, toggle grayscale mode, and use the Always-On-Top feature while you paint or sculpt.
 * **100% Offline & Private:** No accounts, no subscriptions, and no forced cloud syncing. Your boards belong to you.
 
-
+---
 
 ## 📥 Download & Links
 
@@ -28,6 +30,7 @@ Lumaref is a powerful, lightweight, and completely offline desktop reference boa
 * **Bloomeex:** [Visit bloomeex](https://bloomeex.org) 
 * **Watch the Showreel:** [Lumaref Beta Showreel on YouTube](https://youtu.be/DmkjiF7ZDFc)
 
+---
 
 ## 💬 Community & Support
 

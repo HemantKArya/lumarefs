@@ -10,7 +10,6 @@ Lumaref is a powerful, lightweight, and completely offline desktop reference boa
 
 > **🚀 Beta Notice:** Lumaref is currently in active development (Beta). You can expect rapid updates, exciting new features, and continuous UI/UX polishing as the app evolves!
 
----
 
 ## ✨ Key Features
 
@@ -22,7 +21,6 @@ Lumaref is a powerful, lightweight, and completely offline desktop reference boa
 * **Study & Annotation Tools:** Draw directly over references, auto-extract color palettes, toggle grayscale mode, and use the Always-On-Top feature while you paint or sculpt.
 * **100% Offline & Private:** No accounts, no subscriptions, and no forced cloud syncing. Your boards belong to you.
 
----
 
 ## 📥 Download & Links
 
@@ -30,10 +28,8 @@ Lumaref is a powerful, lightweight, and completely offline desktop reference boa
 * **Bloomeex:** [Visit bloomeex](https://bloomeex.org) 
 * **Watch the Showreel:** [Lumaref Beta Showreel on YouTube](https://youtu.be/DmkjiF7ZDFc)
 
----
 
 ## 💬 Community & Support
-
 Join the conversation! Share your feedback, report bugs, or request features in our active community.
 * **Discord Server:** [Join the Lumaref Discord](https://discord.gg/2HgUux92e)
 
